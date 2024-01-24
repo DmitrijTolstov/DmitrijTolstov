@@ -1,10 +1,10 @@
 <div id="header" align="center">
-    <h1>Hello my name Dmitrij</h1>
-    <h2>Web Developer from Russia</h2>
+    <h1 border-bottom='none'>Hello my name Dmitrij</h1>
+    <h2 border-bottom='none'>Web Developer from Russia</h2>
 </div>
 
 <div id="about">
-    <h1>About me:</h1>
+    <h1 border-bottom='none'>About me:</h1>
     <ul id="links">
         <li id="link">🏐 I'm playing volleyball</li>
         <li id="link">💻 I'm burning with development</li>
@@ -14,7 +14,7 @@
 </div>
 
 <div id="language">
-    <h1>Languages and tools</h1>
+    <h1 border-bottom='none'>Languages and tools</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=60" width=60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=60" width=60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=60" width=60" />
